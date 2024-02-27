@@ -41,7 +41,7 @@ pip install -r requirements.txt
 ```
 Run the Project
 
-Modify the dataset path and target variable in the scripts as necessary, then execute:
+Modify the dataset path and target variable in the scripts as necessary.
 
 ### Dependencies
 
