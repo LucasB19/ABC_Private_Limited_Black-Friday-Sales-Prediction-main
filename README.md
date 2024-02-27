@@ -32,7 +32,7 @@ To set up and run this project:
 
 Clone the Repository
 ```bash
-git clone <repository-url>
+git clone <https://github.com/LucasB19/ABC_Private_Limited_Black-Friday-Sales-Prediction-main.git>
 cd <repository-directory>
 ```
 Install Dependencies
