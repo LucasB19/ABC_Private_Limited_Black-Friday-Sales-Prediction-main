@@ -40,15 +40,16 @@ Install Dependencies
 pip install -r requirements.txt
 ```
 Run the Project
+
 Modify the dataset path and target variable in the scripts as necessary, then execute:
 
 ### Dependencies
 
-pandas
-numpy
-scikit-learn
-xgboost
-matplotlib (optional for visualization)
+- pandas
+- numpy
+- scikit-learn
+- xgboost
+- matplotlib (optional for visualization)
 
 ### Conclusion
 
